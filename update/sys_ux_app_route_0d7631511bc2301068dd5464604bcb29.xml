@@ -7,7 +7,7 @@
         <name>Home</name>
         <optional_parameters/>
         <order>0</order>
-        <parent_macroponent display_value="UXR Blank AppShell">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent>
+        <parent_macroponent display_value="UXR Blank AppShell(To be deprecated)">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent>
         <parent_macroponent_composition_element_id/>
         <route_type>home</route_type>
         <screen_type display_value="Home">b476f9111bc2301068dd5464604bcb8d</screen_type>

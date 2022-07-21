@@ -33,5 +33,6 @@ function handler({api, event, helpers, imports}) {
         <sys_update_name>sys_ux_client_script_ef70b1e107fe7010d4b4fa4d7c1ed012</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-09-24 16:29:22</sys_updated_on>
+        <type/>
     </sys_ux_client_script>
 </record_update>

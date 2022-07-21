@@ -98,8 +98,9 @@
 }</macroponent_config>
         <name>NeedIt Admin home</name>
         <order>100</order>
-        <parent_macroponent display_value="UXR Blank AppShell">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent>
+        <parent_macroponent display_value="UXR Blank AppShell(To be deprecated)">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent>
         <required_translations>[ ]</required_translations>
+        <rollback_screen/>
         <screen_condition/>
         <screen_type display_value="Home">b476f9111bc2301068dd5464604bcb8d</screen_type>
         <sys_class_name>sys_ux_screen</sys_class_name>
